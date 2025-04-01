@@ -18,3 +18,5 @@ cd $newpath
 
 rm -Rf .git
 npm i
+
+rm reset-project.sh
